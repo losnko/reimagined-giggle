@@ -1,0 +1,13 @@
+---
+title: "Forestry Service Roads"
+author: "Logan"
+lightgallery: true
+date: "2023-02-05"
+---
+## 1 The Solution
+{{< image src="fsr.jpg" caption="Job Aid for travel along Alberta's Forestry Service Roads *(front)*" >}}
+{{< image src="fsr2.jpg" caption="Job Aid for travel along Alberta's Forestry Service Roads *(back)*" >}}
+
+## 2 The Problem
+
+## 3 The Process
