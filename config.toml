@@ -45,26 +45,26 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "Work"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+#  [[menu.main]]
+#    weight = 2
+#    identifier = "tags"
+#    pre = ""
+#    post = ""
+#    name = "Tags"
+#    url = "/tags/"
+#    title = ""
+#  [[menu.main]]
+#    weight = 3
+#    identifier = "categories"
+#    pre = ""
+#    post = ""
+#    name = "Categories"
+#    url = "/categories/"
+#    title = ""
   [[menu.main]]
     weight = 4
     identifier = "resume"
@@ -72,6 +72,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     post = ""
     name = "Resume"
     url = "/resume/"
+    title = ""
+  [[menu.main]]
+    weight = 5
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
     title = ""
 
 [params]
@@ -104,7 +112,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # title name
       name = "Senko, Logan"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fa fa-paperclip fa-fw' aria-hidden='true'></i>"
+      pre = "<i class='fa fa-mountain fa-fw' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
@@ -206,7 +214,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       disclaimer = ""
     # Home page posts
     [params.home.posts]
-      enable = false
+      enable = true
       # special amount of posts in each home posts page
       paginate = 6
       #  replaced with hiddenFromHomePage in params.page
