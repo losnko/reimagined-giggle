@@ -5,7 +5,7 @@ lightgallery: true
 date: "2023-02-05"
 resources:
 - name: featured-image
-  src: featured-image.jpg
+  src: featured-image.png
 - name: featured-image-preview
   src: featured-image-preview.jpg
 ---

@@ -2,7 +2,7 @@
 
 ## 1 Overview
 
-### 1.1 Indigenous Monitors
+### Background 
 
 The {{< link href="https://www.cer-rec.gc.ca/en/index.html" content="Canada Energy Regulator (CER)" >}} works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.
 
@@ -17,24 +17,35 @@ Indigenous monitors participate in regulatory work, including:
 * :(fas fa-ambulance fa-fw): Emergency response
 * :(fas fa-check-circle fa-fw): Compliance verification
 
-### 1.2 Existing Materials
+### Existing Materials
 
-The inspection process consists of 4 phases which correspond to the on-site workflows. The CER & IM inspection serves as the primary report for compliance, activites and conditions concerning the four major extraction projects :(fas fa-oil-can fa-fw): : TMX, NGTL, Line3, and KXL
+The inspection process consists of 4 phases which correspond to the on-site workflows. Each project has a corresponding pair of inspection and workflow job aid documents to reference during an inspection. <br> <br> The CER & IM inspection serves as the primary report for compliance, activites and conditions concerning the four major extraction projects :(fas fa-industry fa-fw): : TMX, NGTL, Line3, and KXL.
 
-{{< admonition failure "Initial concern" true >}} Procedure material exists as **nine** separate documents
-
-{{< /admonition >}} 
-
-{{< image src="ngtlbefore.jpg" caption="" width="90%" height="90%" >}}
-{{< image src="ngtlbefore1.jpg" caption="" width="90%" height="90%" >}}
+{{< image src="ngtlbefore.jpg" caption="Inspection workflow *job aid* reference" width="90%" height="90%" >}}
+{{< image src="ngtlbefore1.jpg" caption="Emergency response exercise *job aid* reference" width="90%" height="90%" >}}
 
 ## 2 Analysis
 
-### 2.1 Compare versions
+
+{{< admonition failure "Initial impression" true >}} Materials exists as **nine** separate documents:
+1. Resource intensive to maintain
+1. Prone to inconsistent revisioning
+1. Lacks meaningful method for version control
+1. Accessibility, contrast and colour
+{{< /admonition >}}
+
+### Compare
 
 {{< image src="process.jpg" caption="" width="90%" height="90%" >}}
 
-### 2.2 Confirmation with SMEs
+### Clarify
+
+
+
+### Accessibility Assessment
+
+
+
 ## 3 Solution
 
 {{< image src="ngtlafter.jpg" caption="" width="90%" height="90%" >}}
