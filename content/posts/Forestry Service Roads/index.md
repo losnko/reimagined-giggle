@@ -7,7 +7,7 @@ resources:
 - name: featured-image
   src: featured-image.png
 - name: featured-image-preview
-  src: featured-image-preview.jpg
+  src: featured-image-preview.png
 
 description: "Wrote lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)"
 ---

@@ -7,7 +7,7 @@ resources:
 - name: featured-image
   src: featured-image.png
 - name: featured-image-preview
-  src: featured-image-preview.jpg
+  src: featured-image-preview.png
 ---
 ## 1 Problem
 {{< admonition type="question" >}} How are we evaluating the onboarding process? {{< /admonition >}} 
