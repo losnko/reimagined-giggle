@@ -9,6 +9,8 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.png
 
+categories: ["Technical Writing", "Instructional Design"]
+
 description: "Wrote lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)"
 ---
 <!--more-->

@@ -8,6 +8,8 @@ resources:
   src: featured-image.png
 - name: featured-image-preview
   src: featured-image-preview.png
+
+categories: ["Research"]
 ---
 ## 1 Problem
 

@@ -8,6 +8,8 @@ resources:
   src: featured-image.png
 - name: featured-image-preview
   src: featured-image-preview.png
+
+categories: ["Technical Writing"]
 ---
 ## 1 Problem
 {{< admonition type="question" >}} How are we evaluating the onboarding process? {{< /admonition >}} 

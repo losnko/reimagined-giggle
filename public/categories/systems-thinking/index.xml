@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Systems Thinking - Category - Logan Senko</title>
+        <link>https://senkolo.xyz/categories/systems-thinking/</link>
+        <description>Systems Thinking - Category - Logan Senko</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>logan@senkolo.xyz (Logan Senko)</managingEditor>
+            <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/systems-thinking/" rel="self" type="application/rss+xml" /><item>
+    <title>System Map: Digital Literacy in Canada</title>
+    <link>https://senkolo.xyz/system-map/</link>
+    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/system-map/</guid>
+    <description><![CDATA[1 Problem 2 Process 3 Solution ]]></description>
+</item>
+</channel>
+</rss>

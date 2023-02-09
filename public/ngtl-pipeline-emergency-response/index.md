@@ -26,6 +26,30 @@ The inspection process consists of 4 phases which correspond to the on-site work
 
 ## 2 Analysis
 
+### Planning Phase
+
+{{< mermaid  >}}
+flowchart LR
+    subgraph Research
+    background-->materials
+    end
+    subgraph Analysis
+    materials-.->compare
+    materials-.->accessibility
+    end
+    subgraph SME
+    compare<-.->clarify-.->record
+    accessibility-.->record
+    end	
+    subgraph Report
+    record-.->testing-.->submit
+        
+    end
+    Research --> Analysis
+    Analysis --> SME
+    SME --> Report
+{{< /mermaid >}}
+
 
 {{< admonition failure "Initial impression" true >}} Materials exists as **nine** separate documents:
 1. Resource intensive to maintain

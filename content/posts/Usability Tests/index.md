@@ -8,6 +8,8 @@ resources:
   src: featured-image.png
 - name: featured-image-preview
   src: featured-image-preview.png
+
+categories: ["UX", "Technical Writing"]
 ---
 ## 1 Problem
 

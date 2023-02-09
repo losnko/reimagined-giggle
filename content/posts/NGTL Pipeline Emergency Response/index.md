@@ -9,6 +9,7 @@ resources:
   src: featured-image.png
 - name: featured-image-preview
   src: featured-image-preview.png
+categories: ["Technical Writing"] 
 ---
 ## 1 Overview
 
@@ -35,6 +36,30 @@ The inspection process consists of 4 phases which correspond to the on-site work
 {{< image src="ngtlbefore1.jpg" caption="Emergency response exercise *job aid* reference" width="90%" height="90%" >}}
 
 ## 2 Analysis
+
+### Planning Phase
+
+{{< mermaid  >}}
+flowchart LR
+    subgraph Research
+    background-->materials
+    end
+    subgraph Analysis
+    materials-.->compare
+    materials-.->accessibility
+    end
+    subgraph SME
+    compare<-.->clarify-.->record
+    accessibility-.->record
+    end	
+    subgraph Report
+    record-.->testing-.->submit
+        
+    end
+    Research --> Analysis
+    Analysis --> SME
+    SME --> Report
+{{< /mermaid >}}
 
 
 {{< admonition failure "Initial impression" true >}} Materials exists as **nine** separate documents:
