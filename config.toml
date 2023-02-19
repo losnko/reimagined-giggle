@@ -38,17 +38,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Menu config
 [menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "posts"
+#  [[menu.main]]
+#    weight = 1
+#    identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+#    pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Work"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
+#    post = ""
+#    name = "Work"
+#    url = "/posts/"
+#    # title will be shown when you hover on this menu link
+#    title = ""
 #  [[menu.main]]
 #    weight = 2
 #    identifier = "tags"
@@ -62,7 +62,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Work"
     url = "/categories/"
     title = ""
   [[menu.main]]
@@ -543,7 +543,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""

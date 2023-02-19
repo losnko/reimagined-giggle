@@ -1,0 +1,52 @@
+---
+title: "About Me"
+subtitle: ""
+hiddenFromHomePage: true
+---
+{{< image src="/images/avatar.png" caption="" width="25%" height="25%" >}}
+
+## Education
+
+### :(fas fa-graduation-cap fa-fw): Information Design, **BCMM**
+- **2023**, Bachelor of Communication
+- :(fas fa-university fa-fw): {{< link href="https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Communications/Programs/BachelorofCommunication-InformationDesign/index.htm" content="Mount Royal University" >}} (MRU)
+- :(fas fa-scroll fa-fw): President's Honour Roll, GPA 3.85
+
+## Skills
+
+### :(fas fa-ghost fa-fw): Software
+- **Database**: SQL, R, Python
+- **Command Line**: git, bash, ssh, vi, emacs, Linux
+- **Graphics**: Photoshop, Illustrator, InDesign, GIMP, & Inkscape
+- **UI/UX**: Figma, Sketch, Xd 
+- **Productivity**: Office, Sharepoint, Docker
+
+### :(fas fa-drafting-compass fa-fw): Technical Writing
+Translating technical knowledge into accessible documentation.
+
+- **Information Architecture**  <br> Structure, chunk, label, and organize information efficiently.
+
+- **Diagramming** <br> Render diagrams to convey relationships and connections.
+
+- **Visual Communication** <br> Reinforce understanding through meaningful displays.
+
+### :(fas fa-pie-chart fa-fw): Data Analysis
+Garner meaningful insight from a range of data sources.
+
+- **Data Visualization** <br> Communicate data-derived insights through visualizations.
+
+- **Data Analytics** <br> Query databases using SQL, R, and Python.
+
+- **Structured Thinking** <br> Distill complexity in to measurable & actionable tasks.
+
+### :(fas fa-user fa-fw): Human-centered Design
+
+Apply human-computer interaction and instructional learning theories.
+
+- **Instructional Design** <br> Construct learning materials based on adult learning theories.
+
+- **UX/UI Design** <br> Construct and evaluate user experiences using A-B testing, personas, interaction mapping, metric collection and reporting.
+
+### :(fas fa-sitemap fa-fw): Project Management
+
+Comfortable working in sprints, SCRUM/AGILE.
