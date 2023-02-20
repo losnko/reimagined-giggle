@@ -62,7 +62,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Work"
+    name = "Portfolio"
     url = "/categories/"
     title = ""
   [[menu.main]]
@@ -70,7 +70,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "resume"
     pre = ""
     post = ""
-    name = "Resume"
+    name = "Résumé"
     url = "/resume/"
     title = ""
   [[menu.main]]
@@ -593,7 +593,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Table Of Contents settings
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 6
+    endLevel = 3
 
 # Sitemap config
 [sitemap]

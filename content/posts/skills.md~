@@ -1,0 +1,16 @@
+---
+title: "Skills"
+subtitle: ""
+hiddenFromHomePage: false
+---
+
+{{< image src="images/portrait-sm.png" alt="A greyscale photograph of a young man with a shaved head and square glasses" width="75%" height="75%" >}}
+{{< admonition type=info title="Hi there!" >}}
+My name is Logan Senko. <br>
+I'm a recent communications graduate living in Calgary, Alberta.
+* I enjoy solving technical challenges
+* I posses a keen eye for detail and aesthetics
+* I contribute a unique blend of passion and inquiry
+
+I combine the militant endurance of a seasoned chef with a hacker's desire to discover how *everything* works.
+{{< /admonition >}}
