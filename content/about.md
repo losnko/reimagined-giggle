@@ -3,14 +3,16 @@ title: "About Me"
 subtitle: ""
 hiddenFromHomePage: true
 ---
-{{< image src="/images/avatar.png" caption="" width="25%" height="25%" >}}
+{{< admonition type=info title="Hi there!" >}}
+My name is Logan Senko. <br>
+I'm a recent communications graduate living in Calgary, Alberta.
+* I enjoy solving technical challenges
+* I posses a keen eye for detail and aesthetics
+* I contribute a unique blend of passion and inquiry
 
-## Education
+I combine the militant endurance of a seasoned chef with a hacker's desire to discover how *everything* works. 
 
-### :(fas fa-graduation-cap fa-fw): Information Design, **BCMM**
-- **2023**, Bachelor of Communication
-- :(fas fa-university fa-fw): {{< link href="https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Communications/Programs/BachelorofCommunication-InformationDesign/index.htm" content="Mount Royal University" >}} (MRU)
-- :(fas fa-scroll fa-fw): President's Honour Roll, GPA 3.85
+{{< /admonition >}}
 
 ## Skills
 
@@ -50,3 +52,11 @@ Apply human-computer interaction and instructional learning theories.
 ### :(fas fa-sitemap fa-fw): Project Management
 
 Comfortable working in sprints, SCRUM/AGILE.
+
+## Education
+
+### :(fas fa-graduation-cap fa-fw): Information Design, **BCMM**
+- **2023**, Bachelor of Communication
+- :(fas fa-university fa-fw): {{< link href="https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Communications/Programs/BachelorofCommunication-InformationDesign/index.htm" content="Mount Royal University" >}} (MRU)
+- :(fas fa-scroll fa-fw): President's Honour Roll, GPA 3.85
+

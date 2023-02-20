@@ -31,17 +31,13 @@ A set of procedure documents, reduced from the *initial series of nine.*
 ### Planning Phase
 
 {{< mermaid  >}}
-flowchart TD
-    subgraph Research
+graph TD;
     background-->existingMaterials
-    end
-    subgraph Analysis
     existingMaterials-.->compare-.->identify
     compare-.->chunk
     existingMaterials-.->accessibility
     chunk-.->clarify-.->prototype
     accessibility-.->prototype-.->solution
-    end
 {{< /mermaid >}}
 
 ### Background 
