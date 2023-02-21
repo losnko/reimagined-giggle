@@ -4,7 +4,15 @@
         <link>https://senkolo.xyz/posts/</link>
         <description>All Posts | Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>logan@senkolo.xyz (Logan Senko)</managingEditor>
-            <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Résumé</title>
+    <link>https://senkolo.xyz/resume/</link>
+    <pubDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/resume/</guid>
+    <description><![CDATA[Education <i class="fas fa-graduation-cap fa-fw" aria-hidden="true"></i>&nbsp;Information Design, BCMM 2023, Bachelor of Communication <i class="fas fa-university fa-fw" aria-hidden="true"></i>&nbsp;Mount Royal University (MRU) <i class="fas fa-scroll fa-fw" aria-hidden="true"></i>&nbsp;President&rsquo;s Honour Roll, GPA 3.85 <i class="fas fa-certificate fa-fw" aria-hidden="true"></i>&nbsp;Red Seal, Chef 2008, Diploma in Culinary Arts <i class="fas fa-university fa-fw" aria-hidden="true"></i>&nbsp;Southern Alberta Institute of Technology (SAIT) <i class="fas fa-scroll fa-fw" aria-hidden="true"></i>&nbsp;Honours Designation, GPA 4.0 Work Experience <i class="fas fa-user-astronaut fa-fw" aria-hidden="true"></i>&nbsp;Instructional Designer, Intern 2021 Summer, Canada Energy Regulator (CER) Collaborated to projects across departments, timezones, and security clearances, working remotely using scrums.]]></description>
+</item>
+<item>
     <title>Pipeline Compliance &amp; Documentation</title>
     <link>https://senkolo.xyz/pipeline-operations/</link>
     <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
