@@ -10,6 +10,7 @@ resources:
   src: featured-image-preview.png
 
 categories: ["Research"]
+draft: true
 ---
 ## 1 Problem
 

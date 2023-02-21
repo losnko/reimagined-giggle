@@ -10,6 +10,7 @@ resources:
   src: featured-image-preview.png
 
 categories: ["Systems Thinking"]
+draft: true
 ---
 ## 1 Problem
 

@@ -10,6 +10,7 @@ resources:
   src: featured-image-preview.png
 
 categories: ["Technical Writing"]
+draft: true
 ---
 ## 1 Solution
 {{< style "border:1px solid black;" >}}

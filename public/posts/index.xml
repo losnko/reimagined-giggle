@@ -4,40 +4,7 @@
         <link>https://senkolo.xyz/posts/</link>
         <description>All Posts | Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>logan@senkolo.xyz (Logan Senko)</managingEditor>
-            <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Résumé</title>
-    <link>https://senkolo.xyz/resume/</link>
-    <pubDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/resume/</guid>
-    <description><![CDATA[Education <i class="fas fa-graduation-cap fa-fw" aria-hidden="true"></i>&nbsp;Information Design, BCMM 2023, Bachelor of Communication <i class="fas fa-university fa-fw" aria-hidden="true"></i>&nbsp;Mount Royal University (MRU) <i class="fas fa-scroll fa-fw" aria-hidden="true"></i>&nbsp;President&rsquo;s Honour Roll, GPA 3.85 <i class="fas fa-certificate fa-fw" aria-hidden="true"></i>&nbsp;Red Seal, Chef 2008, Diploma in Culinary Arts <i class="fas fa-university fa-fw" aria-hidden="true"></i>&nbsp;Southern Alberta Institute of Technology (SAIT) <i class="fas fa-scroll fa-fw" aria-hidden="true"></i>&nbsp;Honours Designation, GPA 4.0 Work Experience <i class="fas fa-user-astronaut fa-fw" aria-hidden="true"></i>&nbsp;Instructional Designer, Intern 2021 Summer, Canada Energy Regulator (CER) Collaborated to projects across departments, timezones, and security clearances, working remotely using scrums.]]></description>
-</item>
-<item>
-    <title>Forestry Service Roads</title>
-    <link>https://senkolo.xyz/forestry-service-roads/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/forestry-service-roads/</guid>
-    <description><![CDATA[Wrote lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)]]></description>
-</item>
-<item>
-    <title>Onboarding Procedure &amp; Documentation</title>
-    <link>https://senkolo.xyz/onboarding/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/onboarding/</guid>
-    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent trial of three concurrent user tests between revisions. The process is improved by addressing the needs of the user:
-Connectivity due to their remote location (non-3G speeds) Limited availability of mobile devices (shared or out-dated) 2 Problem Question How are we evaluating the onboarding process? Answer Rely on reported failure 3 Process To explore the process of onboarding, I conducted interview with recently onboarded employees to specifically ask them about their experience.]]></description>
-</item>
-<item>
-    <title>OSINT Investigations</title>
-    <link>https://senkolo.xyz/osint/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/osint/</guid>
-    <description><![CDATA[1 Problem 2 Process 3 Solution ]]></description>
-</item>
-<item>
+            <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Pipeline Compliance &amp; Documentation</title>
     <link>https://senkolo.xyz/pipeline-operations/</link>
     <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
@@ -46,22 +13,6 @@ Connectivity due to their remote location (non-3G speeds) Limited availability o
     <description><![CDATA[1 Solution A set of procedure documents, reduced from the initial series of nine.
 Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
 Identified reusable information blocks Chunked together similiar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
-</item>
-<item>
-    <title>System Map: Digital Literacy in Canada</title>
-    <link>https://senkolo.xyz/system-map/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/system-map/</guid>
-    <description><![CDATA[1 Problem 2 Process 3 Solution ]]></description>
-</item>
-<item>
-    <title>Usability Testing</title>
-    <link>https://senkolo.xyz/usability-tests/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/usability-tests/</guid>
-    <description><![CDATA[1 Problem 2 Process 3 Solution ]]></description>
 </item>
 </channel>
 </rss>
