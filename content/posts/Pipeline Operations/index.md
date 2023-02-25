@@ -43,12 +43,14 @@ A set of procedure documents, reduced from the *initial series of nine.*
 
 {{< mermaid  >}}
 graph TD;
-    background-->existingMaterials
-    existingMaterials-.->compare-.->identify
-    compare-.->chunk
-    existingMaterials-.->accessibility
-    chunk-.->clarify-.->prototype
-    accessibility-.->prototype-.->solution
+    A[Research: Background] --> B(Research: Existing Materials)
+    B --> C(Analysis: Compare Versions)
+    C -.-> D(Analysis: Identify Differences)
+    C -.-> E(Analysis: Chunk Reusable Content) <-.->D 
+    B --> F[Analysis: Evaluate Accessibility]
+    D --> G(Analysis: Clarify Changes with SME)-.-H
+    F --> H{Prototype}
+    H --> I[Report: Proposed Solution] 
 {{< /mermaid >}}
 
 ### Background 
