@@ -84,8 +84,6 @@ The CER & IM inspection serves as the primary report for compliance, activites a
 
 ## 3 Process
 
-### Compare
-
 {{< admonition failure "Initial impression" true >}} Materials exists as **nine** separate documents:
 1. Resource intensive to maintain
 1. Prone to inconsistent revisioning
@@ -96,13 +94,7 @@ The CER & IM inspection serves as the primary report for compliance, activites a
 {{< image src="ngtlbefore.jpg" caption="Inspection workflow *job aid* reference" width="90%" height="90%" >}}
 {{< image src="ngtlbefore1.jpg" caption="Emergency response exercise *job aid* reference" width="90%" height="90%" >}}
 
-### Clarify
-
 {{< image src="process.jpg" caption="" width="90%" height="90%" >}}
-
-### Assessment
-
-
 
 
 {{< style "display:none" >}}

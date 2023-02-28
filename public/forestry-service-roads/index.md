@@ -6,10 +6,10 @@
 A high-quality, user-friendly job aid that improves compliance through efficiency and reduction of errors in the operation of radios while traveling on forestry service roads.
 
 {{< style "border:1px solid black;" >}}
-{{< image src="fsr.jpg" alt="Job Aid for travel along Alberta's Forestry Service Roads (front)*" caption="" height="50%" weight="50%">}}{{< /style >}}
+{{< image src="fsr.jpg" caption="Job Aid (front)" alt="Job Aid for travel along Alberta's Forestry Service Roads (front)" height="50%" weight="50%">}}{{< /style >}}
 
 {{< style "border:1px solid black;" >}}
-{{< image src="fsr2.jpg" alt="Job Aid for travel along Alberta's Forestry Service Roads *(back)*" height="50%" weight="50%" >}}{{< /style >}}
+{{< image src="fsr2.jpg" caption="Job aid (back)" alt="Job Aid for travel along Alberta's Forestry Service Roads *(back)*" height="50%" weight="50%" >}}{{< /style >}}
 
 {{< admonition success "Job Aid Document" true >}} 
 The job aid document serves as a reference guide for employees to access critical information related to the operation of 2-way radios while traveling on Forestry Service Roads, this includes:
