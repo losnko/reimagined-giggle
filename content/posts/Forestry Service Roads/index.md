@@ -13,7 +13,7 @@ categories: ["Technical Writing", "Instructional Design"]
 
 description: "Wrote lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)"
 
-draft: true
+draft: false
 ---
 <!--more-->
 
@@ -50,8 +50,11 @@ These constraints are due to the Energy Regulator's document management system a
 The job aid document required designing, organizing and presenting the content in a clear and intuitive manner. 
 
 {{< style "border:1px solid black;" >}}
-{{< image src="fsrboard.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="100%" weight="100%">}}{{< /style >}}
-{{< image src="fsrbefore1.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="10%" weight="10%">}}{{< image src="fsrbefore2.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="10%" weight="10%">}}
-{{< image src="fsrbefore3.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="25%" weight="25%">}}
-{{< image src="fsrbefore4.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="25%" weight="25%">}}
-{{< image src="fsrbefore5.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="25%" weight="25%">}}
+{{< image src="fsrboard.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="100%" weight="100%" caption="High-level view of the FSR project organization board." >}}{{< /style >}}
+<br>
+{{< style "border:1px solid black;" >}}
+{{< image src="fsrbefore1.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="24%" width="24%">}}
+{{< image src="fsrbefore2.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="24%" width="24%">}}
+{{< image src="fsrbefore3.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="24%" width="24%">}}
+{{< image src="fsrbefore4.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="24%" width="24%">}}
+{{< /style >}}
