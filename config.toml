@@ -33,7 +33,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 [author]
   name = "Logan Senko"
-  email = "logan@senkolo.xyz"
+  email = "lsenk390@mtroyal.ca"
   link = "https://senkolo.xyz/"
 
 # Menu config
@@ -84,7 +84,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [params]
   # site default theme ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
@@ -230,7 +230,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Facebook = ""
     Telegram = ""
     Medium = ""
-    Gitlab = "losnko"
+    Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
     Youtubechannel = ""
