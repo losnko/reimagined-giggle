@@ -50,13 +50,5 @@ Identified reusable information blocks Chunked together similar content for revi
     <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
 Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Challenge Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
 </item>
-<item>
-    <title>Data Visualizations</title>
-    <link>https://senkolo.xyz/data-viz/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/data-viz/</guid>
-    <description><![CDATA[]]></description>
-</item>
 </channel>
 </rss>
