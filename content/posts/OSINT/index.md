@@ -11,20 +11,20 @@ resources:
 
 categories: ["Research"]
 draft: true
+description: ""
 ---
+<!--more-->
+
 ## Introduction
-Create a complete lesson package for the {{< link href="https://usay.ca" content="Urban Society for Aboriginal Youth (USAY)" >}} that complements the AR materials presented to users during the “Remembering Our Children” activity while using their {{< link href="https://usay.ca/indigitrails/" content="IndigiTRAiLS" >}} app.
+The {{< link href="https://usay.ca" content="Urban Society for Aboriginal Youth (USAY)" >}} has been approached by clients for additional resources to further the discovery and discussion prompted by engagement with {{< link href="https://usay.ca/indigitrails/" content="IndigiTRAiLS" >}} app. Currently, no such materials are available for distribution to clients. USAY envisions a complete teaching and learning package that supplements the content presented in the IndigiTRAILS app.
+
+The clients who engage USAY with the highest frequency of requests for supplemental learning material are comprised of grades 7-9 teachers and students. Given the positive response and affirmation of these requests from clients for material that furthers discussion and understanding of this subject, USAY seeks to provide a learning package to facilitate further engagement in the classroom.
+
+## Design Challenge
+
+Create a complete lesson package for USAY which complements the AR materials presented to users during the “Remembering Our Children” activity while using their IndigiTRAILS app.
 
 This teaching and learning package is intended for students and teachers who wish to learn more after engaging with the app.
-## Design Challenge
-USAY has been approached by clients for additional resources to further the discovery and discussion prompted by engagement with the IndigiTRAILS app. Currently, no such materials are available for distribution to clients. USAY envisions a complete teaching and learning package that supplements the content presented in the IndigiTRAILS app.
-
-
-The clients who engage USAY with the highest frequency of requests for supplemental learning material are comprised of grades 7-9 teachers and students. The trail on the IndigiTRAILS app that receives the greatest number of inquiries is that of “Remembering our Children,” which addresses the legacy of residential schools.
-
-
-Given the positive response and affirmation of these requests from clients for material that furthers discussion and understanding of this subject, USAY seeks to provide a learning package for grade 7-9 students that facilitate further engagement in the classroom.
-
 ### Current Training
 Beyond what is currently available on the IndigiTRAILS website, teachers and students do not have access to additional information directly from USAY that is related to the app content. They are aware of the topic of the app, which is provided by the website, but not of the installations nor the specific content presented in the app.
 

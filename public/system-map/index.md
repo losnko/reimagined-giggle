@@ -1,6 +1,6 @@
 # Communicating Needs: Digital Literacy
 
-
+<!--more-->
 ## 1 Solution
 
 ### Synthesis Diagram

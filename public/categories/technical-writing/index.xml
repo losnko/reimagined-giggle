@@ -4,22 +4,13 @@
         <link>https://senkolo.xyz/categories/technical-writing/</link>
         <description>Technical Writing - Category - Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
-            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/technical-writing/" rel="self" type="application/rss+xml" /><item>
-    <title>Forestry Service Roads</title>
-    <link>https://senkolo.xyz/forestry-service-roads/</link>
-    <pubDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/forestry-service-roads/</guid>
-    <description><![CDATA[Constructed lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)]]></description>
-</item>
-<item>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/technical-writing/" rel="self" type="application/rss+xml" /><item>
     <title>Pipelines &amp; Procedures</title>
     <link>https://senkolo.xyz/pipeline-operations/</link>
     <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://senkolo.xyz/pipeline-operations/</guid>
-    <description><![CDATA[1 Solution Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
-Identified reusable information blocks Chunked together similar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
+    <description><![CDATA[Evaluated existing documentation and generated a set of recommendations which addressed maintenance, accessibility, and information architecture.]]></description>
 </item>
 <item>
     <title>Onboarding &amp; Procedures</title>
@@ -27,8 +18,7 @@ Identified reusable information blocks Chunked together similar content for revi
     <pubDate>Sat, 05 Jun 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://senkolo.xyz/onboarding/</guid>
-    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
-Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Challenge Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
+    <description><![CDATA[Identified the unique barriers of onboarding inexperienced and remote employees and revised the existing documentation to reflect those needs and reduce said barriers.]]></description>
 </item>
 </channel>
 </rss>

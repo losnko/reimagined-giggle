@@ -10,7 +10,9 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.png
 categories: ["Technical Writing"] 
+description: "Evaluated existing documentation and generated a set of recommendations which addressed maintenance, accessibility, and information architecture."
 ---
+<!--more-->
 ## 1 Solution
 
 

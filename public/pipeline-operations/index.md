@@ -1,5 +1,6 @@
 # Pipelines & Procedures
 
+<!--more-->
 ## 1 Solution
 
 

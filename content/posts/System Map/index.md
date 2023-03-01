@@ -11,8 +11,9 @@ resources:
 
 categories: ["Systemic Design"]
 draft: false
+description: "Contructed a system map to contextualize the social complexity and interdependencies by communicating the profound impact of digital literacy in determining overall quality of health."
 ---
-
+<!--more-->
 ## 1 Solution
 
 ### Synthesis Diagram

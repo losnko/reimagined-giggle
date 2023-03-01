@@ -1,5 +1,6 @@
 # Onboarding & Procedures
 
+<!--more-->
 ## 1 Solution
 
 {{< admonition success "Reimagined Documentation" true >}} A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests.

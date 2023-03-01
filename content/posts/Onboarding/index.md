@@ -11,7 +11,9 @@ resources:
 
 categories: ["Technical Writing"]
 draft: false
+description: "Identified the unique barriers of onboarding inexperienced and remote employees and revised the existing documentation to reflect those needs and reduce said barriers."
 ---
+<!--more-->
 ## 1 Solution
 
 {{< admonition success "Reimagined Documentation" true >}} A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests.
