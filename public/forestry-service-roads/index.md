@@ -31,7 +31,10 @@ These constraints are due to the Energy Regulator's document management system a
 {{< /admonition >}}
 
 ## 3 Process
-The job aid document required designing, organizing and presenting the content in a clear and intuitive manner. I chose to sort the information from an operational standpoint, which made use of existing logistical structures and maximized my ability to coordinate with SMEs who could answer my questions **and** test my prototypes.  
+The job aid document required designing, organizing and presenting the content in a clear and intuitive manner.
+
+
+I chose to sort the information from an operational standpoint, which made use of existing logistical structures and maximized my opportunities with SMEs to answer my questions **and** test my prototypes.  
 
 {{< style "border:1px solid black;" >}}
 {{< image src="fsrboard.jpg" alt="process documentation depicting iterative design across kanban boards" caption="" height="100%" weight="100%" caption="High-level view of the FSR project organization board." >}}{{< /style >}}

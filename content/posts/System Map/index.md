@@ -1,8 +1,8 @@
 ---
 title: "Communicating Needs: Digital Literacy"
-author: "Logan Senko, Rachel Yuen"
+author: "Logan Senko"
 lightgallery: true
-date: "2023-02-05"
+date: "2022-12-05"
 resources:
 - name: featured-image
   src: featured-image.png
@@ -24,6 +24,9 @@ draft: false
 1. **Interviewed** Subject-Matter Experts to contextualize the challenges and explore possible gaps in knowledge
 1. **Synthesized** diagrams from research findings which informed a systems map 
 1. **Produced** an exhibit to encourage participation and foster emotional engagement with the topic
+
+
+*This project was a collaboration with* {{< link href="https://rachel-yuen.myportfolio.com/" content="Rachel Yuen" >}}
 {{< /admonition >}}
 
 {{< style "border: 1px solid black;" >}}

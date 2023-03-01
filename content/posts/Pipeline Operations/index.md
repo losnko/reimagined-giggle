@@ -2,7 +2,7 @@
 title: "Pipelines & Procedures"
 author: ""
 lightgallery: true
-date: "2023-02-05"
+date: "2022-01-05"
 categories: 
 resources:
 - name: featured-image

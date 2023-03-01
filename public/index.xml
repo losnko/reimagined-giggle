@@ -18,29 +18,11 @@ Collaborated to projects across departments, timezones, and security clearances,
 <item>
     <title>Communicating Needs: Digital Literacy</title>
     <link>https://senkolo.xyz/system-map/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko, Rachel Yuen</author>
+    <pubDate>Mon, 05 Dec 2022 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
     <guid>https://senkolo.xyz/system-map/</guid>
     <description><![CDATA[1 Solution Synthesis Diagram System Map A system map which communicates the complexity of the issue in a provoking and thoughtful information display:
-Conducted a literature review of current research Interviewed Subject-Matter Experts to contextualize the challenges and explore possible gaps in knowledge Synthesized diagrams from research findings which informed a systems map Produced an exhibit to encourage participation and foster emotional engagement with the topic Visualizations created using kumu.io 2 Challenge The United Nations' Sustainable Development Goals helped to contextualize the social complexity and interdependencies this challenge presented, the epitome of a so-called wicked problem.]]></description>
-</item>
-<item>
-    <title>Onboarding &amp; Procedures</title>
-    <link>https://senkolo.xyz/onboarding/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/onboarding/</guid>
-    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
-Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Problem Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
-</item>
-<item>
-    <title>Pipelines &amp; Procedures</title>
-    <link>https://senkolo.xyz/pipeline-operations/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/pipeline-operations/</guid>
-    <description><![CDATA[1 Solution Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
-Identified reusable information blocks Chunked together similar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
+Conducted a literature review of current research Interviewed Subject-Matter Experts to contextualize the challenges and explore possible gaps in knowledge Synthesized diagrams from research findings which informed a systems map Produced an exhibit to encourage participation and foster emotional engagement with the topic This project was a collaboration with Rachel Yuen]]></description>
 </item>
 <item>
     <title>Forestry Service Roads</title>
@@ -49,6 +31,32 @@ Identified reusable information blocks Chunked together similar content for revi
     <author>Logan Senko</author>
     <guid>https://senkolo.xyz/forestry-service-roads/</guid>
     <description><![CDATA[Constructed lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)]]></description>
+</item>
+<item>
+    <title>Pipelines &amp; Procedures</title>
+    <link>https://senkolo.xyz/pipeline-operations/</link>
+    <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://senkolo.xyz/pipeline-operations/</guid>
+    <description><![CDATA[1 Solution Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
+Identified reusable information blocks Chunked together similar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
+</item>
+<item>
+    <title>Onboarding &amp; Procedures</title>
+    <link>https://senkolo.xyz/onboarding/</link>
+    <pubDate>Sat, 05 Jun 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://senkolo.xyz/onboarding/</guid>
+    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
+Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Challenge Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
+</item>
+<item>
+    <title>Data Visualizations</title>
+    <link>https://senkolo.xyz/data-viz/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/data-viz/</guid>
+    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>

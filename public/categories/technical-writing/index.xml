@@ -4,31 +4,31 @@
         <link>https://senkolo.xyz/categories/technical-writing/</link>
         <description>Technical Writing - Category - Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
-            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/technical-writing/" rel="self" type="application/rss+xml" /><item>
-    <title>Onboarding &amp; Procedures</title>
-    <link>https://senkolo.xyz/onboarding/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/onboarding/</guid>
-    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
-Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Problem Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
-</item>
-<item>
-    <title>Pipelines &amp; Procedures</title>
-    <link>https://senkolo.xyz/pipeline-operations/</link>
-    <pubDate>Sun, 05 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://senkolo.xyz/pipeline-operations/</guid>
-    <description><![CDATA[1 Solution Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
-Identified reusable information blocks Chunked together similar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
-</item>
-<item>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/technical-writing/" rel="self" type="application/rss+xml" /><item>
     <title>Forestry Service Roads</title>
     <link>https://senkolo.xyz/forestry-service-roads/</link>
     <pubDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</pubDate>
     <author>Logan Senko</author>
     <guid>https://senkolo.xyz/forestry-service-roads/</guid>
     <description><![CDATA[Constructed lesson content, designed safety course, devised evaluation criteria, drafted policy, and created reference materials for traveling on Alberta's forestry service roads (FSRs)]]></description>
+</item>
+<item>
+    <title>Pipelines &amp; Procedures</title>
+    <link>https://senkolo.xyz/pipeline-operations/</link>
+    <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://senkolo.xyz/pipeline-operations/</guid>
+    <description><![CDATA[1 Solution Unified Documentation A maintainable, accessible set of documents developed using information architecture and structured authoring methodology:
+Identified reusable information blocks Chunked together similar content for review Clarified differences and nuanced syntax with SMEs Accessibility assessment, addressing colour and contrast 2 Problem Planning Phase Background The Canada Energy Regulator (CER) works to protect the future of the Canadian energy industry by developing projects which engage with Indigenous communities to ensure energy projects operate safely and under the strictest environmental standards.]]></description>
+</item>
+<item>
+    <title>Onboarding &amp; Procedures</title>
+    <link>https://senkolo.xyz/onboarding/</link>
+    <pubDate>Sat, 05 Jun 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://senkolo.xyz/onboarding/</guid>
+    <description><![CDATA[1 Solution Reimagined Documentation A simplified set of instructions developed by conducting a needs assessment and subsequent round of user tests. The revised documentation specifically addresses the needs of these users:
+Connectivity due to their remote location. Availability of secured mobile devices. Inexperience using 2-factor authentication. Intimidated by the complexity and learning curve. 2 Challenge Question How might we evaluate the current onboarding process? 3 Process To explore the experience of onboarding, I interviewed recently onboarded employees to ask them specifically about any challenges they encountered.]]></description>
 </item>
 </channel>
 </rss>

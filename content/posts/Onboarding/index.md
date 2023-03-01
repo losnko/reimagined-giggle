@@ -2,7 +2,7 @@
 title: "Onboarding & Procedures"
 author: ""
 lightgallery: true
-date: "2023-02-05"
+date: "2021-06-05"
 resources:
 - name: featured-image
   src: featured-image.png
@@ -29,7 +29,7 @@ The revised documentation specifically addresses the needs of **these users**:
 {{< /style >}}
 
 
-## 2 Problem
+## 2 Challenge
 {{< admonition type="question" >}} How might we evaluate the current onboarding process? {{< /admonition >}}
 
 ## 3 Process

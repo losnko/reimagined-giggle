@@ -17,7 +17,7 @@ The revised documentation specifically addresses the needs of **these users**:
 {{< /style >}}
 
 
-## 2 Problem
+## 2 Challenge
 {{< admonition type="question" >}} How might we evaluate the current onboarding process? {{< /admonition >}}
 
 ## 3 Process

@@ -12,6 +12,9 @@
 1. **Interviewed** Subject-Matter Experts to contextualize the challenges and explore possible gaps in knowledge
 1. **Synthesized** diagrams from research findings which informed a systems map 
 1. **Produced** an exhibit to encourage participation and foster emotional engagement with the topic
+
+
+*This project was a collaboration with* {{< link href="https://rachel-yuen.myportfolio.com/" content="Rachel Yuen" >}}
 {{< /admonition >}}
 
 {{< style "border: 1px solid black;" >}}
