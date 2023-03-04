@@ -7,11 +7,11 @@
             <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Wed, 01 Mar 2023 12:36:52 -0700</lastBuildDate>
             <atom:link href="https://senkolo.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Go Hugo, a journey</title>
-    <link>https://senkolo.xyz/blog/</link>
+    <title>Going Hugo</title>
+    <link>https://senkolo.xyz/going-hugo/</link>
     <pubDate>Wed, 01 Mar 2023 12:36:52 -0700</pubDate>
     <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/blog/</guid>
+    <guid>https://senkolo.xyz/going-hugo/</guid>
     <description><![CDATA[A brief overview of building my portfolio site using Hugo, exploring why I chose Hugo over other site generators, and a more detailed look at a few challenges I overcome while integrating my workflow.]]></description>
 </item>
 <item>
