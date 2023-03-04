@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Category - Logan Senko</title>
+        <link>https://senkolo.xyz/categories/blog/</link>
+        <description>Blog - Category - Logan Senko</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Wed, 01 Mar 2023 12:36:52 -0700</lastBuildDate><atom:link href="https://senkolo.xyz/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>Go Hugo, a journey</title>
+    <link>https://senkolo.xyz/blog/</link>
+    <pubDate>Wed, 01 Mar 2023 12:36:52 -0700</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/blog/</guid>
+    <description><![CDATA[A brief overview of building my portfolio site using Hugo, exploring why I chose Hugo over other site generators, and a more detailed look at a few challenges I overcome while integrating my workflow.]]></description>
+</item>
+</channel>
+</rss>

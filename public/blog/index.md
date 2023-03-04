@@ -1,16 +1,5 @@
----
-title: "Go Hugo, a journey"
-date: 2023-03-01T12:36:52-07:00
-draft: false
-resources:
-- name: featured-image
-  src: featured-image.png
-- name: featured-image-preview
-  src: featured-image-preview.png
+# Go Hugo, a journey
 
-categories: ["Blog"]
-description: "A brief overview of building my portfolio site using Hugo, exploring why I chose Hugo over other site generators, and a more detailed look at a few challenges I overcome while integrating my workflow."
----
 <!--more-->
 ## Class of '23
 It was time to update my professional profile, resume, and, most importantly, my portfolio. The design program encouraged students use Adobe's Portfolio in preparation for their internships during their 2nd year of studies. It was time for a change.
