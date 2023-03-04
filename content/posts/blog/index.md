@@ -13,7 +13,7 @@ description: "A brief overview of building my portfolio site using Hugo, explori
 ---
 <!--more-->
 ## Class of '23
-It was time to update my professional profile, resume, and, most importantly, my portfolio. The design program encouraged students use Adobe's Portfolio in preparation for their internships during their 2nd year of studies. It was time for a change.
+It was time to update my professional profile, resume, and, most importantly, my portfolio. The information design program encouraged students to use Adobe's Portfolio in preparation for their internships during their 2nd year of studies. It was time for a change.
 
 {{< admonition warning "Goodbye, Adobe" true >}}
 While the decision to use Adobe's portfolio has many advantages, it comes with a few significant drawbacks:
@@ -120,8 +120,8 @@ The functionality of {{< link "https://github.com/sachinchoolur/lightgallery" li
 For example, zoom and pan functionality enables a dynamic viewport at scale, and the ability to flip through a gallery like the pages of a book, providing a user experience more resonant to the documents in use.
 
 {{< style "border:1px solid black;" >}}
-{{< image src="examplePage.png" height="49%" width="49%" >}}{{< image src="exampleGallery.png" height="49%" width="49%" >}}{{< /style >}}
-{{< image caption="Left: small photo grid documents, Right: gallery view" >}}
+{{< image src="examplePage.png" height="49%" width="49%" >}}{{< image src="exampleGallery.png" height="49%" width="49%" >}}{{< image width="1%" height="1%"caption="*Left:* small grid of documents, *Right:* gallery view." >}}{{< /style >}}
+
 
 ## Deployment
 
