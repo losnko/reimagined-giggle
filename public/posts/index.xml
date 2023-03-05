@@ -4,7 +4,15 @@
         <link>https://senkolo.xyz/posts/</link>
         <description>All Posts | Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
-            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Wed, 01 Mar 2023 12:36:52 -0700</lastBuildDate><atom:link href="https://senkolo.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Going Hugo</title>
+    <link>https://senkolo.xyz/going-hugo/</link>
+    <pubDate>Wed, 01 Mar 2023 12:36:52 -0700</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/going-hugo/</guid>
+    <description><![CDATA[A brief overview of building my portfolio site using Hugo, exploring why I chose Hugo over other site generators, and a more detailed look at a few challenges I overcome while integrating my workflow.]]></description>
+</item>
+<item>
     <title>Résumé</title>
     <link>https://senkolo.xyz/resume/</link>
     <pubDate>Sun, 19 Feb 2023 00:00:00 &#43;0000</pubDate>
