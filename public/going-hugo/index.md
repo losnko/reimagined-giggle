@@ -11,9 +11,9 @@ While the decision to use Adobe's portfolio has many advantages, it comes with a
 1. **Price tag** is the major deterrent, specifically the push to an annual subscription model.
 1. **Formulaic offerings** which look great but offer little in terms of customizability.
 1. **Uninspired user experience** that offers tedious formatting options and leaves me frustrated.
-
-For the price, I find Adobe's offering to be prohibitively restrictive while simultaneously including far more than my work requires. 
 {{< /admonition >}}
+For the price, I find Adobe's offering to be prohibitively restrictive while simultaneously including far more than my work requires. 
+
 
 ## Static Site Generators
 According to Jamstack, {{< link "https://jamstack.org/glossary/ssg/" "Static Site Generators (SSGs)" >}} serve a website from a prebuilt set of files within a repository, such as git.
