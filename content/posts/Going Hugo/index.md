@@ -158,3 +158,4 @@ Netlify will immediately rebuild the site.
 
 {{< admonition success "Congratulations!" true >}}
 If everything was successful, the new content will be live :(fas fa-grin fa-dw):
+{{< /admonition >}}
