@@ -1,17 +1,5 @@
----
-title: "Professional Development"
-subtitle: "Personal Reflections & Insights"
-date: "2023-03-09"
-draft: false
-hiddenFromHomePage: true
-resources:
-- name: featured-image
-  src: featured-image.png
-- name: featured-image-preview
-  src: featured-image-preview.png
+# Professional Development
 
-description: "A reflective exploration of professional development goals during the final semester of my degree"
----
 <!--more-->
 
 ## Activities

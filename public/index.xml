@@ -4,9 +4,17 @@
         <link>https://senkolo.xyz/</link>
         <description>Work of Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
-            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Wed, 01 Mar 2023 12:36:52 -0700</lastBuildDate>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Thu, 09 Mar 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://senkolo.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Professional Development</title>
+    <link>https://senkolo.xyz/professional-development/</link>
+    <pubDate>Thu, 09 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/professional-development/</guid>
+    <description><![CDATA[A reflective exploration of professional development goals during the final semester of my degree]]></description>
+</item>
+<item>
     <title>Going Hugo</title>
     <link>https://senkolo.xyz/going-hugo/</link>
     <pubDate>Wed, 01 Mar 2023 12:36:52 -0700</pubDate>
@@ -30,14 +38,6 @@ Collaborated to projects across departments, timezones, and security clearances,
     <author>Logan Senko</author>
     <guid>https://senkolo.xyz/system-map/</guid>
     <description><![CDATA[Contructed a system map to contextualize the social complexity and interdependencies by communicating the profound impact of digital literacy in determining overall quality of health.]]></description>
-</item>
-<item>
-    <title>Data Visualizations</title>
-    <link>https://senkolo.xyz/data-viz/</link>
-    <pubDate>Tue, 01 Nov 2022 00:00:00 &#43;0000</pubDate>
-    <author>Logan Senko</author>
-    <guid>https://senkolo.xyz/data-viz/</guid>
-    <description><![CDATA[A Film, Retold in Data <i class="fas fa-film fa-fw" aria-hidden="true"></i>&nbsp;Tell a Story, with Data! <i class="fas fa-skull fa-fw" aria-hidden="true"></i>&nbsp;]]></description>
 </item>
 <item>
     <title>Forestry Service Roads</title>
