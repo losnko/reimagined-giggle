@@ -2,7 +2,7 @@
 title: "Professional Development"
 subtitle: "Personal Reflections & Insights"
 date: "2023-03-09"
-draft: true
+draft: false
 hiddenFromHomePage: true
 resources:
 - name: featured-image
@@ -10,7 +10,7 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.png
 
-description: ""
+description: "A reflective exploration of professional development goals during the final semester of my degree"
 ---
 <!--more-->
 
