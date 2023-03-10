@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Visualizations - Category - Logan Senko</title>
+        <link>https://senkolo.xyz/categories/visualizations/</link>
+        <description>Visualizations - Category - Logan Senko</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lsenk390@mtroyal.ca (Logan Senko)</managingEditor>
+            <webMaster>lsenk390@mtroyal.ca (Logan Senko)</webMaster><copyright>Logan Senko</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://senkolo.xyz/categories/visualizations/" rel="self" type="application/rss+xml" /><item>
+    <title>Data Visualizations</title>
+    <link>https://senkolo.xyz/data-viz/</link>
+    <pubDate>Tue, 01 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Logan Senko</author>
+    <guid>https://senkolo.xyz/data-viz/</guid>
+    <description><![CDATA[A Film, Retold in Data <i class="fas fa-film fa-fw" aria-hidden="true"></i>&nbsp;Tell a Story, with Data! <i class="fas fa-skull fa-fw" aria-hidden="true"></i>&nbsp;]]></description>
+</item>
+</channel>
+</rss>

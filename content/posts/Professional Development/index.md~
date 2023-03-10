@@ -1,0 +1,47 @@
+---
+title: "Professional Development"
+subtitle: "Personal Reflections & Insights"
+draft: true
+hiddenFromHomePage: true
+resources:
+- name: featured-image
+  src: featured-image.png
+- name: featured-image-preview
+  src: featured-image-preview.png
+
+description: ""
+---
+<!--more-->
+
+## Activities
+
+### Designed A Portfolio
+
+I wrote this reflection as a blog post entitled {{< link "https://senkolo.xyz/going-hugo" "Going Hugo" >}} .
+
+### Updated A Resume
+
+I chose to create a {{< link "resume" " digital version" >}} of my resume, so it could live as a component in my new portfolio.
+
+I made strategic use of the embedded table of contents to provide a summarized view of my resume for those readers who chose to quickly glance at the page before reading the full document.
+
+{{< style "border: 1px solid black;" >}}
+{{< image src="images/resumeSample.png" width="100%" height="100%" caption="Screenshot demonstrating that summarized view" >}}
+{{< /style >}}
+
+Additionally, the digital resume afforded me another opportunity to showcase myself in a unique light which may appeal to employers.
+
+### Brand Development
+
+I developed my branding and professional identity to reflect a more minimalist mindset. This included:
+1. A colour-scheme
+1. An icon/logo 
+1. An avatar
+
+However, after settling on the current monochromatic black and white colour-scheme, I chose to limit any *personal flair* to the featured 'hero' image which sits at the helm of each individual post.
+
+This provides a dynamic and *optional* way to showcase myself through simple aesthetic charms without distracting from the materials on display, as graphic design is not the focus of my portfolio.
+
+#### Design: Article Cards
+
+The static components of the card include: typeface, type placement, nameplate shape and colour.
