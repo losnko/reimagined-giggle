@@ -141,4 +141,22 @@ I was surprised to learn that a Masters in a Data-related field doesn't entail a
 
 Rosey provided an incredible and diverse range of experiences and I think the management role is inevitable for most driven creative professionals. This discussion was particularly insightful in the context of applying for jobs, as she described how to navigate often mysterious job titles or postings, and her own success using LinkedIn to network and find employment
 
-It was fascinating to learn about the robust infrastructure running behind-the-scenes of such a successful and high-profile team to operate entirely remote. I am inspired by the prospect of remote work, the freedom to chose where I live was a key motivation in my decision to pursue a degree. 
+It was fascinating to learn about the robust infrastructure running behind-the-scenes of such a successful and high-profile team to operate entirely remote. I am inspired by the prospect of remote work, the freedom to chose where I live was a key motivation in my decision to pursue a degree.
+
+### Samantha
+#### Product Design and UX Writing
+
+I appreciate Samantha's honesty regarding recruitment and recruiters, it has inspired me to try and be more active on LinkedIn (despite feeling incredibly awkward about it). I think I need to remember that a hiring manager is just another person, and they were likely in my shoes a short time ago.
+
+I really resonated with the notion she described as "immeasurable design", a nuance in the context of trying to improve a product or design without really understanding where to start or what to explore.
+
+I also found it interesting that she mentioned information arcitecture to be one of the more common problems which clients had expressed without realizing that was which could even be addressed (as I often encounter this). I found it reassuring to hear the pathway she took from graduation to working in finance was both organic and something she chose to persue. It gives me hope for being patient while I look for my first position post-graduation.
+
+### Amanda
+#### Learning and Development
+
+I was almost shocked when Amanda said "contact recruiters from companies you wish to work for individually on linkedin", but that just further demonstrates my total lack of awareness when it comes to so-called professional conduct.
+
+Additionally, her suggestion to acquire shares during contract negotiations and as hiring incentives was not something I realized existed at that phase of my career. That's exciting. The advice to conclude portfolio entries with a "what you would have done differently?" section is fantastic.
+
+While I knew this, it was a good reminder, that is: that instructional design, information design, ux design, and technical writing are essentially the same skill set just articulated and applied in a different manner. A good recruiter knows this.
