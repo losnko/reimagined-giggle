@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Visual Design - Logan Senko</title>
+        <title>All Posts - Logan Senko</title>
         <link>https://senkolo.xyz/posts/visual-design/</link>
-        <description>All Visual Design | Logan Senko</description>
+        <description>All Posts | Logan Senko</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>logan@senkolo.xyz (Logan Senko)</managingEditor>
             <webMaster>logan@senkolo.xyz (Logan Senko)</webMaster><copyright>Logan Senko</copyright><atom:link href="https://senkolo.xyz/posts/visual-design/" rel="self" type="application/rss+xml" /></channel>
 </rss>
